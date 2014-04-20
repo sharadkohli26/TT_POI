@@ -1,0 +1,63 @@
+<inputs>
+	country = India
+	city = Guwahati
+	maxdist =400
+	num = 10
+	sortby = rank
+</inputs>
+
+
+<outputs>
+Success:1
+
+Data:
+---->SourceCity:Guwahati
+---->DestCity:Udaipur
+---->Dist:296
+---->Snippet:Udaipur pronunciation, also known as the City of Lakes, is a city, a Municipal Corporation and the administrative headquarters of the Udaipur district in the state of Rajasthan in western India. It is located 403 kilometres southwest of the state capital, Jaipur, 576km southwest of Alwar, 248km west of Kota, and 250km northeast from Ahmedabad. Udaipur is the historic capital of the kingdom of Mewar in the former Rajputana Agency. The Sisodia...
+
+---->SourceCity:Guwahati
+---->DestCity:Darjeeling
+---->Dist:360
+---->Snippet:Darjeeling is a town in the Indian state of West Bengal. It is located in the Mahabharat Range or Lesser Himalaya at an average elevation of 6,710ft . It is noted for its tea industry and the Darjeeling Himalayan Railway, a UNESCO World Heritage Site. Darjeeling is the headquarters of Darjeeling district which has a partially autonomous status within the state of West Bengal. The development of the town dates back to the mid-19th century, when the colonial...
+
+---->SourceCity:Guwahati
+---->DestCity:Agartala
+---->Dist:267
+---->Snippet:Agartala is the capital of the Indian state of Tripura and is second largest city in North-east India after Guwahati, both in municipal area and population. Agartala is a component of two words, namely Agar, a kind of oily valuable perfume tree + suffix tala, a store house. Agar i.e., Agaru tree was plenty in this region i.e., entire Northeast. The city is governed by the Municipal Corporation, Agartala lies on the bank of Haora...
+
+---->SourceCity:Guwahati
+---->DestCity:Shillong
+---->Dist:69
+---->Snippet:Shillong is the capital of Meghalaya, one of the smallest states in India and home to the Khasis. It is the headquarters of the East Khasi Hills district and is situated at an average altitude of 4,908feet above sea level, with the highest point being Shillong Peak at 6,449feet . Shillong is the 330th most populous city in India with population of 143,007 according to the 2011 census...
+
+---->SourceCity:Guwahati
+---->DestCity:Siliguri
+---->Dist:337
+---->Snippet:Siliguri also known as Gateway of North East India is a city in the Indian state of West Bengal. Siliguri is located on the banks of the Mahananda River and the foothills of the Himalayas, it is a principal commercial, tourism, transportation, and educational center of North Bengal. As of 2011, the city had 5 Lakh residents; the urban agglomeration, which comprises the city and its suburbs, was home to approximately 19 Lakhs...
+
+---->SourceCity:Guwahati
+---->DestCity:Imphal
+---->Dist:267
+---->Snippet:The city of Imphal is the capital of the Indian state of Manipur. The ruins of the Palace of Kangla are in the city centre, surrounded by a moat. Kangla Fort was home to the paramilitary Assam Rifles until November 2004, when it was transferred to the state of Manipur by Prime Minister Manmohan Singh. The city's Polo Ground is the world's oldest surviving polo ground in the world.[citation needed]...
+
+---->SourceCity:Guwahati
+---->DestCity:Dibrugarh
+---->Dist:345
+---->Snippet:Dibrugarh , is a city and is the headquarters of the Dibrugarh district in the state of Assam in India. Well known as the Tea City of India, Dibrugarh is a major city in eastern India in line with Guwahati and Bhubaneswar and is the emerging communication and industrial hub of North East India. Dibrugarh is also one of the two main cities in the state of Assam to receive urban development aid from the Asian Development Bank and is the nerve...
+
+---->SourceCity:Guwahati
+---->DestCity:Noida
+---->Dist:3
+---->Snippet:Noida , short for the New Okhla Industrial Development Authority, is a city in India under the management of the New Okhla Industrial Development Authority . Noida came into administrative existence on 17 April 1976 and celebrates 17 April as "Noida Day". It was set up as part of an urbanization thrust during the controversial Emergency period . The city was created under the UP Industrial Area Development...
+
+---->SourceCity:Guwahati
+---->DestCity:Itanagar
+---->Dist:210
+---->Snippet:Itanagar is the capital of the Indian state of Arunachal Pradesh. Itanagar is situated at the foothills of Himalayas. It comes administratively under Papum Pare district. As it is a state capital, Itanagar is well connected by road and air. There is a helicopter service between Guwahati and Naharlagun . Buses are available from Guwahati. The nearest railway station is Naharlagun. Interesting places around...
+
+---->SourceCity:Guwahati
+---->DestCity:Tinsukia
+---->Dist:386
+---->Snippet:Tinsukia is a small town and municipal board in Tinsukia district, Assam, India. Tinsukia is a regional business hub in the Indian state of Assam. It is situated 480 kilometres north east of Guwahati and 84 kilometres kilometres away from the border with Arunachal Pradesh. It is the administrative headquarters of Tinsukia District of Assam, India. Hailed as the business capital of Assam, the place has a heady mix of Assamese...
+</outputs>

@@ -1,0 +1,61 @@
+<inputs>
+	country = India
+	city = Delhi
+	maxdist = 400
+	num = 10
+	sortby = rank
+</inputs>
+
+<output>
+Success:1
+Data:
+---->SourceCity:Delhi
+---->DestCity:Jaipur
+---->Dist:237
+---->Snippet:Jaipur is the capital and largest city of the Indian state of Rajasthan in Northern India. It was founded on 18 November 1727 by Maharaja Sawai Jai Singh II, the ruler of Amber, after whom the city has been named. The city today has a population of 3.1 million. Jaipur is known as the Pink City of India. The city is unusual among pre-modern Indian cities in the regularity of its streets, and the division of the city into six sectors by broad streets 34m (111ft...
+
+---->SourceCity:Delhi
+---->DestCity:Agra
+---->Dist:180
+---->Snippet:Agra west of the state capital, Lucknow, and 200 kilometres south of the national capital New Delhi. With a population of 1,686,976 , it is one of the most populous cities in Uttar Pradesh and the 19th most populous in India. Agra can also refer to the administrative...
+
+---->SourceCity:Delhi
+---->DestCity:Udaipur
+---->Dist:199
+---->Snippet:Udaipur pronunciation, also known as the City of Lakes, is a city, a Municipal Corporation and the administrative headquarters of the Udaipur district in the state of Rajasthan in western India. It is located 403 kilometres southwest of the state capital, Jaipur, 576km southwest of Alwar, 248km west of Kota, and 250km northeast from Ahmedabad. Udaipur is the historic capital of the kingdom of Mewar in the former Rajputana Agency. The Sisodia...
+
+---->SourceCity:Delhi
+---->DestCity:Shimla
+---->Dist:275
+---->Snippet:Shimla ), also known as Simla, is the capital city of the Indian state of Himachal Pradesh, located in northern India. It is bounded by Mandi and Kullu in the north, Kinnaur in the east, the state of Uttarakhand in the south-east, and Solan and Sirmaur to the south. The elevation of the city ranges from 300 to 2200 metres....
+
+---->SourceCity:Delhi
+---->DestCity:Rishikesh
+---->Dist:191
+---->Snippet:Rishikesh is a city, municipal board and a tehsil in Dehradun district of the Indian state, Uttarakhand. Located in the foothills of the Himalayas in northern India, it is known as The Gateway to the Garhwal Himalayas. Rishikesh is surrounded by three other districts namely Tehri Garhwal, Pauri Garhwal and Haridwar. It is located approximately 25km north of the city Haridwar and 43km south west of the state capital Dehradun. According to Census...
+
+---->SourceCity:Delhi
+---->DestCity:Amritsar
+---->Dist:398
+---->Snippet:Amritsar historically also known as Rāmdāspur and colloquially as Ambarsar, is a city in north-western part in India. It is the spiritual centre for the Sikh religion and the administrative headquarters of the Amritsar district in the state of Punjab. It is home to the Harmandir Sahib , the spiritual and cultural center for...
+
+---->SourceCity:Delhi
+---->DestCity:Kanpur
+---->Dist:392
+---->Snippet:Kanpur is the most populous city in the Indian state of Uttar Pradesh and is one of the largest industrial cities in India. It is the administrative headquarters of Kanpur Nagar district and Kanpur division and is known as Leather City as it contains some of the largest and finest tanneries in the world. Kanpur is one of North India's main commercial and industrial centres. Kanpur is situated on...
+
+---->SourceCity:Delhi
+---->DestCity:Chandigarh
+---->Dist:239
+---->Snippet:Chandigarh is a city in Northern India that serves as the capital of the states of Punjab and Haryana. The city of Chandigarh was the first planned city in India post-independence in 1947 and was known internationally for its architecture and urban design. The city was primarily designed by Le Corbusier, but it also has projects designed by architects such as Pierre Jeanneret, Jane Drew and Maxwell Fry. The city tops the list of Indian States and Union Territories by per capita income...
+
+---->SourceCity:Delhi
+---->DestCity:Chandigarh
+---->Dist:236
+---->Snippet:Chandigarh is a city in Northern India that serves as the capital of the states of Punjab and Haryana. The city of Chandigarh was the first planned city in India post-independence in 1947 and was known internationally for its architecture and urban design. The city was primarily designed by Le Corbusier, but it also has projects designed by architects such as Pierre Jeanneret, Jane Drew and Maxwell Fry. The city tops the list of Indian States and Union Territories by per capita income...
+
+---->SourceCity:Delhi
+---->DestCity:Mussoorie
+---->Dist:220
+---->Snippet:Mussoorie is a hill station and a municipal board in the Dehradun District of the northern Indian state of Uttarakhand. It is located about 35km from the state capital of Dehradun and 290km north from the national capital of New Delhi. This hill station, situated in the foothills of the Garhwal Himalayan ranges, is also known as the Queen of the Hills. The adjoining town of Landour, which includes a military cantonment, is considered part...
+</output>

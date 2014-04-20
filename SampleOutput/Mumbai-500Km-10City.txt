@@ -1,0 +1,62 @@
+<inputs>
+	country = India
+	city = Mumbai
+	maxdist =500
+	num = 10
+	sortby = rank
+</inputs>
+
+<outputs>
+Success:1
+
+Data:
+---->SourceCity:Mumbai
+---->DestCity:Ahmedabad
+---->Dist:448
+---->Snippet:Ahmedabad is the largest city and former capital of the Indian state of Gujarat. The city is the administrative headquarters of Ahmedabad district and is the judicial capital of Gujarat as the Gujarat High Court is located here. With a population of more than 5.8 million and an extended population of 6.3 million, it is the fifth largest city and seventh largest metropolitan area of India. It is also ranked third...
+
+---->SourceCity:Mumbai
+---->DestCity:Pune
+---->Dist:119
+---->Snippet:Pune ) is the seventh largest metropolis in India and the second largest in the state of Maharashtra. It is situated 560 metres above sea level on the Deccan plateau at the right bank of the Mutha river. Pune city is the administrative headquarters of Pune district and was once the centre of power of the Maratha Empire....
+
+---->SourceCity:Mumbai
+---->DestCity:Goa
+---->Dist:415
+---->Snippet:Goa is India's smallest state by area and the fourth smallest by population. Located in West India in the region known as the Konkan, it is bounded by the state of Maharashtra to the north, and by Karnataka to the east and south, while the Arabian Sea forms its western coast. Goa is India's richest state with a GDP per capita two and a half times that of the country as a whole. It was ranked the best placed state by the Eleventh Finance Commission for its infrastructure and ranked...
+
+---->SourceCity:Mumbai
+---->DestCity:Kolhapur
+---->Dist:297
+---->Snippet:Kolhapur is an historical city in the Panchganga river basin in southwest Maharashtra state, India. It is the municipal centre of Kolhapur district. Prior to Independance, Kolhapur was a nineteen gun salute, princely state ruled by the Bhosale Chhatrapati of the Maratha Empire. History Mythological origin Hindu mythology holds that Kolhapura was founded by Kolhasura, a Rakshasha . Kolhasura...
+
+---->SourceCity:Mumbai
+---->DestCity:Aurangabad
+---->Dist:277
+---->Snippet:Aurangabad may refer to: Aurangabad, Bihar, a city and a municipality in Bihar, India Aurangabad district, Bihar List of villages in Aurangabad district, Bihar Aurangabad Aurangabad, Maharashtra, a city in Maharashtra, India Neighborhoods of Aurangabad Aurangabad Municipal Corporation Aurangabad district, Maharashtra Aurangabad division Aurangabad ...
+
+---->SourceCity:Mumbai
+---->DestCity:Ponda
+---->Dist:420
+---->Snippet:Ponda may refer to: Ponda, Goa, town Ponda taluk, taluk Ponda Baba, Star Wars character
+
+---->SourceCity:Mumbai
+---->DestCity:Surat
+---->Dist:243
+---->Snippet:Surat, previously known as Suryapur, is a city in the Indian state of Gujarat. Surat is also called as city of flyovers. It is the administrative capital of the Surat district. The city is located 306km south of the state capital, Gandhinagar on the left bank of the Tapti River , the center being around 22km from the river's mouth. Surat is Gujarat's second largest city with a population of 2.1 million at the 2001 census and 4.6 million at the 2011 census. It is the...
+
+---->SourceCity:Mumbai
+---->DestCity:Lonavla
+---->Dist:65
+---->Snippet:Lonavla pronunciation or Lonavala is a town and a hill station Municipal Council in Pune district in the Indian state of Maharashtra. It is about 64km away from the city of Pune, 96km away from the city of Mumbai. It is known for its production of the hard candy known as chikki and is also a major stop on the rail line connecting Mumbai and Pune. From Mumbai suburbs, local trains are available from Karjat. Both the Mumbai-Pune Expressway as well as the Mumbai-Chennai highway...
+
+---->SourceCity:Mumbai
+---->DestCity:Panaji
+---->Dist:405
+---->Snippet:Panaji , Portuguese: Pangim, usually known in English as Panjim) is the capital of the Indian state of Goa and the headquarters of North Goa district. It lies on the banks of the Mandovi River estuary in Tiswadi taluka. With a population of 114,405 in the metropolitan area, Panaji is Goa's largest city, ahead of Margao and Vasco da Gama. Panaji means “land that never...
+
+---->SourceCity:Mumbai
+---->DestCity:Ahmednagar
+---->Dist:199
+---->Snippet:Ahmednagar pronunciation is a city in Ahmednagar District in the state of Maharashtra, India, about 120km northeast of Pune and 120km from Aurangabad. The town was founded in 1494 by Ahmad Nizam Shah on the site of a more ancient city, Bhingar. With the breakup of the Bahmani Sultanate, Ahmad established a new sultanate in Ahmednagar, also known as Nizam Shahi dynasty. Numerous Mughal-era buildings dot the environs. Ahmednagar Fort, once considered the second most impregnable...
+</outputs>
