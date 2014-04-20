@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<table border="1">
+			<tr>
+				<td>
+				<form name="input" action="./test.php" method="get">
+					Country:
+					<input type="text" name="country" value="India">
+					<br>
+					City:
+					<input type="text" name="city" value="Delhi">
+					<br>
+					Distance(KM):
+					<input type="text" name="maxdist" value="300">
+					<br>
+					NumPlaces:
+					<select name="num">
+						<option value="10">10</option>
+						<option value="20">20</option>
+					</select>
+					<br>
+					SortBy:
+					<input type="radio" name="sortby" value="rank" checked>
+					Rank
+					<input type="radio" name="sortby" value="dist">
+					Distance
+					<br>
+					<input type="hidden" name="controller" value="NearBy">
+					<input type="hidden" name="action" value="WeekendGetaway">
+					<input type="submit" value="GetNearByPlaces">
+				</form></td>
+				<td>
+				<form name="input" action="./test.php" method="get">
+					Country:
+					<input type="text" name="country" value="Sri Lanka">
+					<br>					
+					<input type="hidden" name="controller" value="NearBy">
+					<input type="hidden" name="action" value="AddCountry">
+					<input type="submit" value="AddCountry">
+				</form></td>
+			</tr>
+		</table>
+	</body>
+</html>

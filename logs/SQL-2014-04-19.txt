@@ -1,0 +1,111 @@
+
+-----------SQL Error::2014-04-19 05:09:48-------------------------------------
+<Exception>Exception_DBO_SQLQUERY::Mysqli Query failed!!</Exception>
+<SQL_Error></SQL_Error>
+	<BackTraceDumpStart>
+	<File>S:\xampp\htdocs\TT_POI\Inc\DBOperations.Class.php</File>
+	<Function>ThrowDBException</Function>
+	<Line>338</Line>
+	<Arg_0>Exception_DBO_SQLQUERY::Mysqli Query failed!!</Arg_0>
+	<Arg_1></Arg_1>
+	<File>S:\xampp\htdocs\TT_POI\model\NearBy_Class.php</File>
+	<Function>SelectCount</Function>
+	<Line>48</Line>
+	<Arg_0></Arg_0>
+	<File>S:\xampp\htdocs\TT_POI\Controller\NearBy_Controller_Class.php</File>
+	<Function>GetWeekendGetaway</Function>
+	<Line>26</Line>
+	<Arg_0>Delhi</Arg_0>
+	<Arg_1>India</Arg_1>
+	<Arg_2></Arg_2>
+	<Arg_3></Arg_3>
+	<File>S:\xampp\htdocs\TT_POI\test.php</File>
+	<Function>WeekendGetawayAction</Function>
+	<Line>59</Line>
+	</BackTraceDumpEnd>
+----------------------------------------------------------------------------------------
+
+-----------SQL Error::2014-04-19 05:11:30-------------------------------------
+<Exception>Exception_DBO_SQLQUERY::Mysqli Query failed!!</Exception>
+<SQL_Error></SQL_Error>
+	<BackTraceDumpStart>
+	<File>S:\xampp\htdocs\TT_POI\Inc\DBOperations.Class.php</File>
+	<Function>ThrowDBException</Function>
+	<Line>338</Line>
+	<Arg_0>Exception_DBO_SQLQUERY::Mysqli Query failed!!</Arg_0>
+	<Arg_1></Arg_1>
+	<File>S:\xampp\htdocs\TT_POI\model\NearBy_Class.php</File>
+	<Function>SelectCount</Function>
+	<Line>49</Line>
+	<Arg_0></Arg_0>
+	<File>S:\xampp\htdocs\TT_POI\Controller\NearBy_Controller_Class.php</File>
+	<Function>GetWeekendGetaway</Function>
+	<Line>26</Line>
+	<Arg_0>Delhi</Arg_0>
+	<Arg_1>India</Arg_1>
+	<Arg_2></Arg_2>
+	<Arg_3></Arg_3>
+	<File>S:\xampp\htdocs\TT_POI\test.php</File>
+	<Function>WeekendGetawayAction</Function>
+	<Line>59</Line>
+	</BackTraceDumpEnd>
+----------------------------------------------------------------------------------------
+
+-----------SQL Error::2014-04-19 05:12:15-------------------------------------
+<Exception>Exception_DBO_SQLQUERY::Mysqli Query failed!!</Exception>
+<SQL_Error>Unknown column 'citiesCity' in 'where clause'</SQL_Error>
+	<BackTraceDumpStart>
+	<File>S:\xampp\htdocs\TT_POI\Inc\DBOperations.Class.php</File>
+	<Function>ThrowDBException</Function>
+	<Line>338</Line>
+	<Arg_0>Exception_DBO_SQLQUERY::Mysqli Query failed!!</Arg_0>
+	<Arg_1>Unknown column 'citiesCity' in 'where clause'</Arg_1>
+	<File>S:\xampp\htdocs\TT_POI\model\NearBy_Class.php</File>
+	<Function>SelectCount</Function>
+	<Line>49</Line>
+	<Arg_0>SELECT COUNT(*) FROM cities WHERE citiesCity='Delhi' AND citiesCountry='India'</Arg_0>
+	<File>S:\xampp\htdocs\TT_POI\Controller\NearBy_Controller_Class.php</File>
+	<Function>GetWeekendGetaway</Function>
+	<Line>26</Line>
+	<Arg_0>Delhi</Arg_0>
+	<Arg_1>India</Arg_1>
+	<Arg_2></Arg_2>
+	<Arg_3></Arg_3>
+	<File>S:\xampp\htdocs\TT_POI\test.php</File>
+	<Function>WeekendGetawayAction</Function>
+	<Line>59</Line>
+	</BackTraceDumpEnd>
+----------------------------------------------------------------------------------------
+
+-----------SQL Error::2014-04-19 05:13:13-------------------------------------
+<Exception>Exception_DBO_PREPARE::Mysqli Prepare failed!!</Exception>
+<SQL_Error>Column 'SourceCity' specified twice</SQL_Error>
+	<BackTraceDumpStart>
+	<File>S:\xampp\htdocs\TT_POI\Inc\DBOperations.Class.php</File>
+	<Function>ThrowDBException</Function>
+	<Line>98</Line>
+	<Arg_0>Exception_DBO_PREPARE::Mysqli Prepare failed!!</Arg_0>
+	<Arg_1>Column 'SourceCity' specified twice</Arg_1>
+	<File>S:\xampp\htdocs\TT_POI\model\NearBy_Class.php</File>
+	<Function>Insert</Function>
+	<Line>120</Line>
+	<Arg_0>citynearby</Arg_0>
+	<ArrArg_1>citynearby.SourceCity<--->citynearby.SourceCity<--->citynearby.DestCity<--->citynearby.DestCountry<--->citynearby.Dist</ArrArg_1>
+	<ArrArg_2>Array</ArrArg_2>
+	<File>S:\xampp\htdocs\TT_POI\model\NearBy_Class.php</File>
+	<Function>CreateSourceNBE</Function>
+	<Line>63</Line>
+	<Arg_0>Delhi</Arg_0>
+	<Arg_1>India</Arg_1>
+	<File>S:\xampp\htdocs\TT_POI\Controller\NearBy_Controller_Class.php</File>
+	<Function>GetWeekendGetaway</Function>
+	<Line>26</Line>
+	<Arg_0>Delhi</Arg_0>
+	<Arg_1>India</Arg_1>
+	<Arg_2></Arg_2>
+	<Arg_3></Arg_3>
+	<File>S:\xampp\htdocs\TT_POI\test.php</File>
+	<Function>WeekendGetawayAction</Function>
+	<Line>59</Line>
+	</BackTraceDumpEnd>
+----------------------------------------------------------------------------------------
