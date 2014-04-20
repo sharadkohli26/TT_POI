@@ -44,7 +44,7 @@ class NearByEntry {
 		//echo "<br> $sqlquery_str <br>";
 		$out = (int)$this -> DBOO -> SelectCount($sqlquery_str);
 		if ($out > 1) {
-			throw new Exception(USER_NBE_MULTIPLEMATCH);
+			throw new Exception(USER_NBE_MULTIPLE_CITYMATCH);
 		} elseif ($out == 0) {
 			throw new Exception(USER_NBE_CITYNOTFOUND);
 		}
